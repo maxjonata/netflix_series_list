@@ -1,5 +1,8 @@
 # netflix_series_list
 
+## Site para experimentar
+  https://netflixserielisttest.herokuapp.com/#/
+
 ## Project setup
 ```
 npm install
